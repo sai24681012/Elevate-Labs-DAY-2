@@ -23,9 +23,9 @@ Slide 4 – Quantity Ordered Distribution ,Conclusion of the story & Recommendat
 
       ✅ Profitable States: Virginia and New York show strong profits. These regions should be prioritized for expansion and further investment.
 
-      ❌ Unprofitable States: Pennsylvania and Ohio are recording losses despite receiving orders. This indicates possible issues such as high shipping costs, heavy discounts, or high   return rates. A detailed review of operations in these states is required.
+      ❌ Unprofitable States: Pennsylvania and Ohio are recording losses despite receiving orders. This indicates possible issues such as high shipping costs, heavy discounts, or high return rates. A detailed review of operations in these states is required.
 
-      🎯 Customer Insights: A few customers contribute significantly to total profit, while many others generate very low or negative returns. Targeting high-value customers with loyalty programs and tailored offers will improve profitability.
+      🎯 Customer Insights: A few customers contribute significantly to total profit, while many others generate very low or negative returns. Targeting high-value customers with loyalty progams and tailored offers will improve profitability.
 
       📦 Order vs. Profit Gap: Some states with high order volumes do not necessarily generate high profits.
 
